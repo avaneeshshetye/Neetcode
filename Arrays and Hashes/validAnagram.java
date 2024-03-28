@@ -8,7 +8,6 @@ public class validAnagram {
     
              Arrays.sort(s_array);
              Arrays.sort(t_array);
-    
              return Arrays.equals(s_array, t_array);
     
         }
