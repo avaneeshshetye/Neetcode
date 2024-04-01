@@ -22,7 +22,6 @@ class Solution {
 
             maxLength = Math.max(maxLength, i - start + 1);
         }
-
         return maxLength;
     }
 }
