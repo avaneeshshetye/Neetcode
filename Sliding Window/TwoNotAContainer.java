@@ -12,7 +12,6 @@ public class TwoNotAContainer {
                 System.out.println("Invalid input. Please enter a positive number.");
             }
         } while (num <= 0);
-        
         System.out.println("You entered: " + num);
         scanner.close();
     }
