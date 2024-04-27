@@ -11,6 +11,7 @@ class invertBinaryTree {
     root.left = right;
     
     return root;
+    
     }
     
 }
